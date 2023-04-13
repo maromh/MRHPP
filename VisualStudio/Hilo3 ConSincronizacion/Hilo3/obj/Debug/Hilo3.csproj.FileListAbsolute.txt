@@ -1,0 +1,21 @@
+C:\Users\a\source\repos\Hilo3\Hilo3\obj\Debug\Hilo3.csprojAssemblyReference.cache
+C:\Users\a\source\repos\Hilo3\Hilo3\obj\Debug\Hilo3.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\Hilo3\Hilo3\bin\Debug\Hilo3.exe.config
+C:\Users\a\source\repos\Hilo3\Hilo3\bin\Debug\Hilo3.exe
+C:\Users\a\source\repos\Hilo3\Hilo3\bin\Debug\Hilo3.pdb
+C:\Users\a\source\repos\Hilo3\Hilo3\obj\Debug\Hilo3.exe
+C:\Users\a\source\repos\Hilo3\Hilo3\obj\Debug\Hilo3.pdb
+C:\Angel Asiel\Cuarto Semestre\Topicos\Hilo3\Hilo3\bin\Debug\Hilo3.exe.config
+C:\Angel Asiel\Cuarto Semestre\Topicos\Hilo3\Hilo3\bin\Debug\Hilo3.exe
+C:\Angel Asiel\Cuarto Semestre\Topicos\Hilo3\Hilo3\bin\Debug\Hilo3.pdb
+C:\Angel Asiel\Cuarto Semestre\Topicos\Hilo3\Hilo3\obj\Debug\Hilo3.csprojAssemblyReference.cache
+C:\Angel Asiel\Cuarto Semestre\Topicos\Hilo3\Hilo3\obj\Debug\Hilo3.csproj.CoreCompileInputs.cache
+C:\Angel Asiel\Cuarto Semestre\Topicos\Hilo3\Hilo3\obj\Debug\Hilo3.exe
+C:\Angel Asiel\Cuarto Semestre\Topicos\Hilo3\Hilo3\obj\Debug\Hilo3.pdb
+C:\Angel Asiel\Cuarto Semestre\Topicos\Hilo3 ConSincronizacion\Hilo3\bin\Debug\Hilo3.exe.config
+C:\Angel Asiel\Cuarto Semestre\Topicos\Hilo3 ConSincronizacion\Hilo3\bin\Debug\Hilo3.exe
+C:\Angel Asiel\Cuarto Semestre\Topicos\Hilo3 ConSincronizacion\Hilo3\bin\Debug\Hilo3.pdb
+C:\Angel Asiel\Cuarto Semestre\Topicos\Hilo3 ConSincronizacion\Hilo3\obj\Debug\Hilo3.csprojAssemblyReference.cache
+C:\Angel Asiel\Cuarto Semestre\Topicos\Hilo3 ConSincronizacion\Hilo3\obj\Debug\Hilo3.csproj.CoreCompileInputs.cache
+C:\Angel Asiel\Cuarto Semestre\Topicos\Hilo3 ConSincronizacion\Hilo3\obj\Debug\Hilo3.exe
+C:\Angel Asiel\Cuarto Semestre\Topicos\Hilo3 ConSincronizacion\Hilo3\obj\Debug\Hilo3.pdb

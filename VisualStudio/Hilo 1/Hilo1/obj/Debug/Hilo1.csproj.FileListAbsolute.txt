@@ -1,0 +1,14 @@
+C:\Users\a\source\repos\Hilo1\Hilo1\bin\Debug\Hilo1.exe.config
+C:\Users\a\source\repos\Hilo1\Hilo1\bin\Debug\Hilo1.exe
+C:\Users\a\source\repos\Hilo1\Hilo1\bin\Debug\Hilo1.pdb
+C:\Users\a\source\repos\Hilo1\Hilo1\obj\Debug\Hilo1.csprojAssemblyReference.cache
+C:\Users\a\source\repos\Hilo1\Hilo1\obj\Debug\Hilo1.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\Hilo1\Hilo1\obj\Debug\Hilo1.exe
+C:\Users\a\source\repos\Hilo1\Hilo1\obj\Debug\Hilo1.pdb
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\Hilo 1\Hilo1\bin\Debug\Hilo1.exe.config
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\Hilo 1\Hilo1\bin\Debug\Hilo1.exe
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\Hilo 1\Hilo1\bin\Debug\Hilo1.pdb
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\Hilo 1\Hilo1\obj\Debug\Hilo1.csprojAssemblyReference.cache
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\Hilo 1\Hilo1\obj\Debug\Hilo1.csproj.CoreCompileInputs.cache
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\Hilo 1\Hilo1\obj\Debug\Hilo1.exe
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\Hilo 1\Hilo1\obj\Debug\Hilo1.pdb
