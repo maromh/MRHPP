@@ -1,0 +1,10 @@
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\HilosPG\HilosPG\bin\Debug\HilosPG.exe.config
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\HilosPG\HilosPG\bin\Debug\HilosPG.exe
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\HilosPG\HilosPG\bin\Debug\HilosPG.pdb
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\HilosPG\HilosPG\obj\Debug\HilosPG.csprojAssemblyReference.cache
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\HilosPG\HilosPG\obj\Debug\HilosPG.Form1.resources
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\HilosPG\HilosPG\obj\Debug\HilosPG.Properties.Resources.resources
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\HilosPG\HilosPG\obj\Debug\HilosPG.csproj.GenerateResource.cache
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\HilosPG\HilosPG\obj\Debug\HilosPG.csproj.CoreCompileInputs.cache
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\HilosPG\HilosPG\obj\Debug\HilosPG.exe
+C:\Users\malpi\Documents\Visual Studio 2017\Projects\HilosPG\HilosPG\obj\Debug\HilosPG.pdb

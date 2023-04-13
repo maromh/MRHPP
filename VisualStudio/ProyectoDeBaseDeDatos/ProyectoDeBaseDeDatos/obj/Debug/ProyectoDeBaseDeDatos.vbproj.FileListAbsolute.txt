@@ -1,0 +1,13 @@
+C:\Users\malpi\source\repos\ProyectoDeBaseDeDatos\ProyectoDeBaseDeDatos\bin\Debug\Peliculas.mdb
+C:\Users\malpi\source\repos\ProyectoDeBaseDeDatos\ProyectoDeBaseDeDatos\bin\Debug\ProyectoDeBaseDeDatos.exe.config
+C:\Users\malpi\source\repos\ProyectoDeBaseDeDatos\ProyectoDeBaseDeDatos\bin\Debug\ProyectoDeBaseDeDatos.exe
+C:\Users\malpi\source\repos\ProyectoDeBaseDeDatos\ProyectoDeBaseDeDatos\bin\Debug\ProyectoDeBaseDeDatos.pdb
+C:\Users\malpi\source\repos\ProyectoDeBaseDeDatos\ProyectoDeBaseDeDatos\bin\Debug\ProyectoDeBaseDeDatos.xml
+C:\Users\malpi\source\repos\ProyectoDeBaseDeDatos\ProyectoDeBaseDeDatos\obj\Debug\ProyectoDeBaseDeDatos.vbprojAssemblyReference.cache
+C:\Users\malpi\source\repos\ProyectoDeBaseDeDatos\ProyectoDeBaseDeDatos\obj\Debug\ProyectoDeBaseDeDatos.Form1.resources
+C:\Users\malpi\source\repos\ProyectoDeBaseDeDatos\ProyectoDeBaseDeDatos\obj\Debug\ProyectoDeBaseDeDatos.Resources.resources
+C:\Users\malpi\source\repos\ProyectoDeBaseDeDatos\ProyectoDeBaseDeDatos\obj\Debug\ProyectoDeBaseDeDatos.vbproj.GenerateResource.cache
+C:\Users\malpi\source\repos\ProyectoDeBaseDeDatos\ProyectoDeBaseDeDatos\obj\Debug\ProyectoDeBaseDeDatos.vbproj.CoreCompileInputs.cache
+C:\Users\malpi\source\repos\ProyectoDeBaseDeDatos\ProyectoDeBaseDeDatos\obj\Debug\ProyectoDeBaseDeDatos.exe
+C:\Users\malpi\source\repos\ProyectoDeBaseDeDatos\ProyectoDeBaseDeDatos\obj\Debug\ProyectoDeBaseDeDatos.xml
+C:\Users\malpi\source\repos\ProyectoDeBaseDeDatos\ProyectoDeBaseDeDatos\obj\Debug\ProyectoDeBaseDeDatos.pdb
